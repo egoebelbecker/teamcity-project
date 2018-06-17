@@ -1,4 +1,4 @@
-package com.aspetraining.teamcity;
+package com.egoebelbecker.teamcity;
 
 import org.junit.Test;
 

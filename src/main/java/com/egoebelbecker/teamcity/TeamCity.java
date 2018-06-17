@@ -1,4 +1,4 @@
-package com.aspetraining.teamcity;
+package com.egoebelbecker.teamcity;
 
 public class TeamCity {
 
